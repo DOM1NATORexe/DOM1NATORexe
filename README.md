@@ -1,6 +1,6 @@
 <image src="images/me.png" align="right" style="height:256px">
 <h3 align="center" style="font-family:serif;">"Sic Parvis Magna"</h3>
-<h3 align="center" style="font-family:serif;">"<i>Greatness from small beginnings.</i>"</h3>
+<h3 align="center" style="font-family:serif;">"*Greatness from small beginnings.*"</h3>
 <p align="center" style="font-style:italic;">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<i>– Sir Francis Drake</i></p>
 <br>
 <p align="center">Every journey towards something<br>extraordinary starts with one small step.</p>
